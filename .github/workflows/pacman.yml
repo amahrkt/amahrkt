@@ -19,8 +19,7 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: yomikoy/pacman-contribution-graph@main
-
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -28,6 +27,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
