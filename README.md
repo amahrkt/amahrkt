@@ -19,6 +19,8 @@
 
 ![Amahrkt GitHub stats](https://github-readme-stats.vercel.app/api?username=amahrkt&show_icons=true&theme=calm_pink)
 
+##### Play Games
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/amahrkt/amahrkt/output/snake.svg" alt="Snake animation" />
