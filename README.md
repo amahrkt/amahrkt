@@ -17,13 +17,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amahrkt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhalimah-rangkuti-41442a280/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amahrkt)
-
-
-##### Play Games
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amahrkt/amahrkt/output/snake.svg" alt="Snake animation" />
-
-
-###
