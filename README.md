@@ -1,28 +1,29 @@
 ![Header](img/github-header-image.png)
 
-## Hola Mate! I'm Amahrkt
+## Hello, I'm Amahrkt
 
-🔭 I'm currently student
-🌱 I'm currently learning **Html css**
+🔭 I'm currently student at Sehati Indonesia University
+🌱 I'm currently learning **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, SQL, PostgreSQL, Git/GitHub, Python dasar, dan Linux dasar.**
 
 ##### 💻Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootsrap,nodejs,express,php,mysql,postgres,prisma,linux,c,cpp,git,vscode&perline=3)](https://skillicons.dev)
 
-![happyy birthday](https://vignette.wikia.nocookie.net/mario/images/3/34/Mario.gif/revision/latest?cb=20180115202747)
+![happyy birthday](https://i.pinimg.com/originals/7f/a5/b8/7fa5b89146d76d5343c5b9f90ab59479.gif)
+
 
 ##### Connect with me
 
-![https://instagram.com/amahrkt](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.quora.com/profile/Me-139?ch=10&oid=1885279336&share=1c102ccf&srid=hMroR7&target_type=user](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amahrkt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhalimah-rangkuti-41442a280/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amahrkt)
 
-##### My Github Stats
-
-![Amahrkt GitHub stats](https://github-readme-stats.vercel.app/api?username=amahrkt&show_icons=true&theme=calm_pink)
 
 ##### Play Games
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/amahrkt/amahrkt/output/snake.svg" alt="Snake animation" />
+
 
 ###
