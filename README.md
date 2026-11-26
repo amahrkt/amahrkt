@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootsrap,nodejs,express,php,mysql,postgres,prisma,linux,c,cpp,git,vscode&perline=3)](https://skillicons.dev)
 
-![happyy birthday](https://i.pinimg.com/originals/7f/a5/b8/7fa5b89146d76d5343c5b9f90ab59479.gif)
+![happyy birthday](https://media.tenor.com/images/29f507ae392e2c49ef490949e2ed0f6a/tenor.gif)
 
 
 ##### Connect with me
